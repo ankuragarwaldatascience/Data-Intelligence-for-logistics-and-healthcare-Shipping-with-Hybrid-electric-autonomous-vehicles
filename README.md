@@ -17,6 +17,7 @@ Healthcare Logistics Solutions
 A growing number of populations, particularly those with limited access to healthcare, may eventually accept autonomous medical vehicles
 
 Using autonomous drones, medical supplies will be delivered more quickly and more inexpensively.
+
 ![9VAq](https://user-images.githubusercontent.com/103935236/179873002-ecac04ab-a7bd-4f73-9f04-2c8198c8c880.gif)
 
 
