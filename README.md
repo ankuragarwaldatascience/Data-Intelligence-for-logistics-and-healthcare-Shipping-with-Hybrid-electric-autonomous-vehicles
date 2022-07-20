@@ -1,5 +1,5 @@
 # Autonomous Vehicles
-#An autonomous car senses its environment and operates without the involvement of a driver. There is no requirement for a human passenger to take control or be present in the vehicle at any time.
+An autonomous car senses its environment and operates without the involvement of a driver. There is no requirement for a human passenger to take control or be present in the vehicle at any time.
 
 Shipping and Logistics with autonomous vehicles
 
