@@ -29,6 +29,11 @@ Using autonomous drones, medical supplies will be delivered more quickly and mor
 ![ezgif-1-25fc9aace8](https://user-images.githubusercontent.com/103935236/180164481-11a3c110-e830-41e4-8181-1a3228b7d0e5.gif)
 
 
+Autonomous Robot in Warehouse of Parcel Sorting
+
+![robot_speeding_about 0](https://user-images.githubusercontent.com/103935236/180171671-d74bc3d2-46c9-4ad6-b98e-03614ec1ad01.gif)
+
+
 Monitoring System
 
 With the use of AI monitoring tools and machine learning, millions of events can be tracked continuously in real time.
