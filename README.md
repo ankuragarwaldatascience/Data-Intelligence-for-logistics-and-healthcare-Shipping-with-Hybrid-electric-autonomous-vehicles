@@ -12,9 +12,6 @@ There are many applications for autonomous vehicle
 
 Autonomous systems can set high speeds and avoid busy roads using vehicle-to-vehicle communication. The carbon footprint and motoring costs of drivers with driverless vehicles can be reduced by approximately 15% by optimizing driving and convoying.
 
-![giphy](https://user-images.githubusercontent.com/103935236/179874693-3435ebd7-cd5c-4168-963e-fce5b6e5ac36.gif)
-
-
 
 
 >> Healthcare Logistics Solutions with Autonomous Drones
@@ -23,10 +20,9 @@ A growing number of populations, particularly those with limited access to healt
 
 Using autonomous drones, medical supplies will be delivered more quickly and more inexpensively.
 
-![9VAq](https://user-images.githubusercontent.com/103935236/179873002-ecac04ab-a7bd-4f73-9f04-2c8198c8c880.gif)
+![9VAq](https://user-images.githubusercontent.com/103935236/179873002-ecac04ab-a7bd-4f73-9f04-2c8198c8c880.gif) ![ezgif-1-25fc9aace8](https://user-images.githubusercontent.com/103935236/180164481-11a3c110-e830-41e4-8181-1a3228b7d0e5.gif)
 
 
-![ezgif-1-25fc9aace8](https://user-images.githubusercontent.com/103935236/180164481-11a3c110-e830-41e4-8181-1a3228b7d0e5.gif)
 
 
 Autonomous Robot in Warehouse of Parcel Sorting
