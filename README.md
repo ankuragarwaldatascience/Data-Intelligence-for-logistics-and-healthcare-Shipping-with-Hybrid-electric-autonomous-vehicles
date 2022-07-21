@@ -15,10 +15,6 @@ Autonomous systems can set high speeds and avoid busy roads using vehicle-to-veh
 ![giphy](https://user-images.githubusercontent.com/103935236/179874693-3435ebd7-cd5c-4168-963e-fce5b6e5ac36.gif)
 
 
-Road Transportation Ecosystem for Autonomous Vehicles
-
-
-![ezgif-1-f4f301552f](https://user-images.githubusercontent.com/103935236/180164161-20345507-2022-4de1-8e4c-5eece67fec40.gif)
 
 
 >> Healthcare Logistics Solutions with Autonomous Drones
@@ -38,3 +34,10 @@ Monitoring System
 With the use of AI monitoring tools and machine learning, millions of events can be tracked continuously in real time.
 
 ![AxqW](https://user-images.githubusercontent.com/103935236/179873661-4e19e1a8-d6c6-4f48-8b6e-9deef8d5d67d.gif)
+
+
+
+Road Transportation Ecosystem for Autonomous Vehicles
+
+
+![ezgif-1-f4f301552f](https://user-images.githubusercontent.com/103935236/180164161-20345507-2022-4de1-8e4c-5eece67fec40.gif)
