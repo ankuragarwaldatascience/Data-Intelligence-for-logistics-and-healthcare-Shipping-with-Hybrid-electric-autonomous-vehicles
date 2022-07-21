@@ -1,7 +1,10 @@
 # Electric Autonomous Vehicles for Logistics and Healthcare
 An autonomous car senses its environment and operates without the involvement of a driver. There is no requirement for a human passenger to take control or be present in the vehicle at any time.
 
-Shipping and Logistics with autonomous vehicles
+
+There are many applications for autonomous vehicle 
+
+>> Delivery  with autonomous vehicles
 
 
 ![7R1b](https://user-images.githubusercontent.com/103935236/179872535-272cdc14-c3eb-4598-89ce-215cb67768d0.gif)
@@ -18,7 +21,8 @@ Road Transportation Ecosystem for Autonomous Vehicles
 ![ezgif-1-f4f301552f](https://user-images.githubusercontent.com/103935236/180164161-20345507-2022-4de1-8e4c-5eece67fec40.gif)
 
 
-Healthcare Logistics Solutions
+>> Healthcare Logistics Solutions with Autonomous Drones
+
 A growing number of populations, particularly those with limited access to healthcare, may eventually accept autonomous medical vehicles
 
 Using autonomous drones, medical supplies will be delivered more quickly and more inexpensively.
