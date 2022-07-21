@@ -13,8 +13,6 @@ Autonomous systems can set high speeds and avoid busy roads using vehicle-to-veh
 
 
 
-
-
 Healthcare Logistics Solutions
 A growing number of populations, particularly those with limited access to healthcare, may eventually accept autonomous medical vehicles
 
