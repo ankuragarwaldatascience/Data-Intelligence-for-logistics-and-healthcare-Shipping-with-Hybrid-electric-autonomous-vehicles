@@ -3,9 +3,11 @@ An autonomous car senses its environment and operates without the involvement of
 
 Shipping and Logistics with autonomous vehicles
 
-Autonomous systems can set high speeds and avoid busy roads using vehicle-to-vehicle communication. The carbon footprint and motoring costs of drivers with driverless vehicles can be reduced by approximately 15% by optimizing driving and convoying.
 
 ![7R1b](https://user-images.githubusercontent.com/103935236/179872535-272cdc14-c3eb-4598-89ce-215cb67768d0.gif)
+
+
+Autonomous systems can set high speeds and avoid busy roads using vehicle-to-vehicle communication. The carbon footprint and motoring costs of drivers with driverless vehicles can be reduced by approximately 15% by optimizing driving and convoying.
 
 ![giphy](https://user-images.githubusercontent.com/103935236/179874693-3435ebd7-cd5c-4168-963e-fce5b6e5ac36.gif)
 
