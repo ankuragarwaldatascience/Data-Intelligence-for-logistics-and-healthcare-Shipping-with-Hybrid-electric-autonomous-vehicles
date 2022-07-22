@@ -25,7 +25,8 @@ Using autonomous drones, medical supplies will be delivered more quickly and mor
 
 
 
-Autonomous Robot in Warehouse of Parcel Sorting
+Deliveries are made faster and easier with an autonomous robot. 
+
 
 ![robot_speeding_about 0](https://user-images.githubusercontent.com/103935236/180171671-d74bc3d2-46c9-4ad6-b98e-03614ec1ad01.gif)
 
